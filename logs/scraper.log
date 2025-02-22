@@ -1,1 +1,26 @@
 
+2025-02-22 19:03:50,187 - Starting update at 2025-02-22 19:03:50
+2025-02-22 19:03:50,770 - Found 9 listings to check
+2025-02-22 19:03:51,149 - Added new listing: Wevershoekstraat 25-B
+2025-02-22 19:03:56,481 - Added new listing: Korte Hoogstraat 16-D
+2025-02-22 19:04:01,794 - Added new listing: Libelleveen 219
+2025-02-22 19:04:07,169 - Added new listing: Hengelolaan 1154-C
+2025-02-22 19:04:12,550 - Added new listing: Plein 1953 128
+2025-02-22 19:04:17,942 - Added new listing: Dirk Hoogenraadstraat 88
+2025-02-22 19:04:23,373 - Added new listing: Veenoord 464
+2025-02-22 19:04:28,712 - Added new listing: Florence Nightingalestr 158
+2025-02-22 19:04:34,089 - Added new listing: Elisabeth Brugsmaweg 1-203
+2025-02-22 19:04:39,089 - Error during update: 'extraction_timestamp'
+2025-02-22 19:09:26,731 - Starting update at 2025-02-22 19:09:26
+2025-02-22 19:09:27,144 - Found 9 listings to check
+2025-02-22 19:09:27,397 - Added new listing: Wevershoekstraat 25-B
+2025-02-22 19:09:32,645 - Added new listing: Korte Hoogstraat 16-D
+2025-02-22 19:09:38,029 - Added new listing: Libelleveen 219
+2025-02-22 19:09:43,499 - Added new listing: Hengelolaan 1154-C
+2025-02-22 19:09:48,760 - Added new listing: Plein 1953 128
+2025-02-22 19:09:54,051 - Added new listing: Dirk Hoogenraadstraat 88
+2025-02-22 19:09:59,341 - Added new listing: Veenoord 464
+2025-02-22 19:10:04,626 - Added new listing: Florence Nightingalestr 158
+2025-02-22 19:10:09,954 - Added new listing: Elisabeth Brugsmaweg 1-203
+2025-02-22 19:10:14,957 - Removed duplicates. Database size: 3329 → 3316
+2025-02-22 19:10:15,086 - Added 9 new listings to database
