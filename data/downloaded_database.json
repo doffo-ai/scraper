@@ -76102,5 +76102,28 @@
       "PC6": "SC",
       "city": "Den Haag"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 45,
+      "volume": 184,
+      "rooms": 1,
+      "energy_label": "Niet beschikbaar",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1912,
+      "address": "2e Schansstraat 28-A",
+      "postal_city": "3025 XN Rotterdam",
+      "extraction_timestamp": "2025-02-22T23:24:26.057700",
+      "price_per_m2": 4111,
+      "building_age": 113,
+      "PC4": "3025",
+      "PC6": "XN",
+      "city": "Rotterdam"
+    }
   }
 ]
