@@ -2,7 +2,7 @@ name: Daily Funda Scraper
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '0 22 * * *'  # Runs at 10 PM UTC (11 PM Dutch time)
   workflow_dispatch:      # Allows manual trigger
 
 permissions:
