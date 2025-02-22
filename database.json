@@ -76079,5 +76079,28 @@
       "PC6": "SC",
       "city": "Den Haag"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 91,
+      "volume": 289,
+      "rooms": 4,
+      "energy_label": "Niet beschikbaar",
+      "vve_contribution": 164.92,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1972,
+      "address": "Florence Nightingalestr 158",
+      "postal_city": "2286 JS Rijswijk (ZH)",
+      "extraction_timestamp": "2025-02-22T14:52:32.526549",
+      "price_per_m2": 2473,
+      "building_age": 53,
+      "PC4": "2286",
+      "PC6": "JS",
+      "city": "Rijswijk (ZH)"
+    }
   }
 ]
