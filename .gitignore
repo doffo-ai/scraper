@@ -5,11 +5,13 @@ config.py
 
 # Logs
 *.log
-/logs/*.log
+!/logs/scraper.log  # Allow tracking this specific log file
+!/logs/fetch.log    # Allow tracking this specific log file
 
 # Downloaded database files
-/data/downloaded_database.json
-/data/database_*.json
+/data/*.json
+!/data/downloaded_database.json  # Allow tracking this specific database file
+!/data/zipcodes.txt             # Allow tracking zipcodes file
 
 # Python
 __pycache__/
