@@ -1,6 +1,21 @@
-from utils import make_request
+from ..utils import get_project_root
+from .utils import make_request
 from bs4 import BeautifulSoup
 from datetime import datetime
+import os
+import logging
+
+# Create logs directory if it doesn't exist
+logs_dir = os.path.join(get_project_root(), 'logs')
+os.makedirs(logs_dir, exist_ok=True)
+
+# Setup logging
+log_file = os.path.join(logs_dir, 'scraper.log')
+logging.basicConfig(
+    filename=log_file,
+    level=logging.INFO,
+    format='%(asctime)s - %(message)s'
+)
 
 def extract_page_html(url):
     return make_request(url)

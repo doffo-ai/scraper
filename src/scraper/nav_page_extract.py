@@ -1,9 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
-from utils import make_request
+from .utils import make_request
+from ..utils import get_project_root
+import os
 
-def load_zipcodes(filename='zipcodes.txt'):
+def load_zipcodes(filename=None):
     """Load valid postal codes from a file"""
+    if filename is None:
+        filename = os.path.join(get_project_root(), 'data', 'zipcodes.txt')
     try:
         with open(filename, 'r') as f:
             # Remove brackets, quotes, and spaces, then split by commas

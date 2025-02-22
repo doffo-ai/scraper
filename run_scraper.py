@@ -1,15 +1,20 @@
 import json
 from datetime import datetime
 import time
-from nav_page_extract import extract_listing_links
-from page_extract import get_house_features
 import logging
+import os
+
+from src.scraper import extract_listing_links, get_house_features
 
 FUNDA_URL = "https://www.funda.nl/zoeken/koop?selected_area=[%22provincie-zuid-holland%22,%22provincie-noord-holland%22,%22utrecht%22]&price=%22175000-225000%22&publication_date=%221%22&availability=[%22available%22,%22negotiations%22,%22unavailable%22]"
 
+# Create required directories
+os.makedirs('logs', exist_ok=True)
+os.makedirs('data', exist_ok=True)
+
 # Setup logging
 logging.basicConfig(
-    filename='scraper.log',
+    filename='logs/scraper.log',
     level=logging.INFO,
     format='%(asctime)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S'
@@ -17,7 +22,7 @@ logging.basicConfig(
 
 def load_database():
     try:
-        with open('database.json', 'r') as f:
+        with open('data/downloaded_database.json', 'r') as f:
             return json.load(f)
     except FileNotFoundError:
         return []
@@ -62,7 +67,7 @@ def update_database():
                 print(f"\n{msg}")
                 logging.info(msg)
                 
-                with open('database.json', 'w') as f:
+                with open('data/downloaded_database.json', 'w') as f:
                     json.dump(cleaned_database, f, indent=2)
                 
                 msg = f"Added {len(new_entries)} new listings to database"
