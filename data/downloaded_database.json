@@ -76194,5 +76194,28 @@
       "PC6": "DK",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 210000,
+      "living_area": 50,
+      "volume": 167,
+      "rooms": 2,
+      "energy_label": "D",
+      "vve_contribution": 90.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1929,
+      "address": "Wolphaertsbocht 367-A01",
+      "postal_city": "3081 KH Rotterdam",
+      "extraction_timestamp": "2025-02-24T16:58:19.805820",
+      "price_per_m2": 4200,
+      "building_age": 96,
+      "PC4": "3081",
+      "PC6": "KH",
+      "city": "Rotterdam"
+    }
   }
 ]
