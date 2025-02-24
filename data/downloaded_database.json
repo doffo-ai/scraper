@@ -76171,5 +76171,28 @@
       "PC6": "AS",
       "city": "Spijkenisse"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 52,
+      "volume": 170,
+      "rooms": 3,
+      "energy_label": "E",
+      "vve_contribution": 45.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1939,
+      "address": "Goereesestraat 58-C",
+      "postal_city": "3083 DK Rotterdam",
+      "extraction_timestamp": "2025-02-24T16:47:05.541392",
+      "price_per_m2": 4327,
+      "building_age": 86,
+      "PC4": "3083",
+      "PC6": "DK",
+      "city": "Rotterdam"
+    }
   }
 ]
