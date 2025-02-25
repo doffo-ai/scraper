@@ -76378,5 +76378,28 @@
       "PC6": "GG",
       "city": "Zaandam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 175000,
+      "living_area": 49,
+      "volume": 168,
+      "rooms": 2,
+      "energy_label": "G",
+      "vve_contribution": 82.0,
+      "heating_system": "Gashaard",
+      "apartment_type": "Tussenverdieping (bel-etage)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1934,
+      "address": "Pendrechtstraat 2-01",
+      "postal_city": "3082 XC Rotterdam",
+      "extraction_timestamp": "2025-02-25T16:45:52.768499",
+      "price_per_m2": 3571,
+      "building_age": 91,
+      "PC4": "3082",
+      "PC6": "XC",
+      "city": "Rotterdam"
+    }
   }
 ]
