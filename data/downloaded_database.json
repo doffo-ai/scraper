@@ -76217,5 +76217,97 @@
       "PC6": "KH",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 30,
+      "volume": 99,
+      "rooms": 1,
+      "energy_label": "C",
+      "vve_contribution": 104.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1984,
+      "address": "Charlotte Bront\u00e9straat 305",
+      "postal_city": "1102 XD Amsterdam",
+      "extraction_timestamp": "2025-02-25T02:57:58.053927",
+      "price_per_m2": 6667,
+      "building_age": 41,
+      "PC4": "1102",
+      "PC6": "XD",
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 79,
+      "volume": 283,
+      "rooms": 3,
+      "energy_label": "G",
+      "vve_contribution": 102.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement met open portiek)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1934,
+      "address": "R\u00f6ntgenstraat 12-C",
+      "postal_city": "3131 RM Vlaardingen",
+      "extraction_timestamp": "2025-02-25T02:58:04.611390",
+      "price_per_m2": 2848,
+      "building_age": 91,
+      "PC4": "3131",
+      "PC6": "RM",
+      "city": "Vlaardingen"
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 175000,
+      "living_area": 55,
+      "volume": 179,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 549.62,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Portiekflat (service flat)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1970,
+      "address": "Dr H. Colijnlaan 6-F113",
+      "postal_city": "2283 XM Rijswijk (ZH)",
+      "extraction_timestamp": "2025-02-25T02:58:09.981890",
+      "price_per_m2": 3182,
+      "building_age": 55,
+      "PC4": "2283",
+      "PC6": "XM",
+      "city": "Rijswijk (ZH)"
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 61,
+      "volume": 180,
+      "rooms": 3,
+      "energy_label": "G",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1964,
+      "address": "Wijnruitstraat 43",
+      "postal_city": "3193 GJ Hoogvliet Rotterdam",
+      "extraction_timestamp": "2025-02-25T02:58:15.800901",
+      "price_per_m2": 3689,
+      "building_age": 61,
+      "PC4": "3193",
+      "PC6": "GJ",
+      "city": "Hoogvliet Rotterdam"
+    }
   }
 ]
