@@ -76309,5 +76309,28 @@
       "PC6": "GJ",
       "city": "Hoogvliet Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 54,
+      "volume": 179,
+      "rooms": 4,
+      "energy_label": "D",
+      "vve_contribution": 156.08,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1940,
+      "address": "Walchersestraat 106-C",
+      "postal_city": "3083 NT Rotterdam",
+      "extraction_timestamp": "2025-02-25T08:52:18.142347",
+      "price_per_m2": 3704,
+      "building_age": 85,
+      "PC4": "3083",
+      "PC6": "NT",
+      "city": "Rotterdam"
+    }
   }
 ]
