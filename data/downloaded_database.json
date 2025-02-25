@@ -76401,5 +76401,28 @@
       "PC6": "XC",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 189500,
+      "living_area": 57,
+      "volume": 202,
+      "rooms": 4,
+      "energy_label": "G",
+      "vve_contribution": 50.0,
+      "heating_system": "Gaskachels",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1927,
+      "address": "Weesperstraat 82",
+      "postal_city": "2574 VW Den Haag",
+      "extraction_timestamp": "2025-02-25T20:32:06.446742",
+      "price_per_m2": 3325,
+      "building_age": 98,
+      "PC4": "2574",
+      "PC6": "VW",
+      "city": "Den Haag"
+    }
   }
 ]
