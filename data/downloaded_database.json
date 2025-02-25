@@ -76355,5 +76355,28 @@
       "PC6": "CL",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 74,
+      "volume": 245,
+      "rooms": 3,
+      "energy_label": "C",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": null,
+      "construction_type": "Bestaande bouw",
+      "build_year": 1935,
+      "address": "Westzijde 228",
+      "postal_city": "1506 GG Zaandam",
+      "extraction_timestamp": "2025-02-25T14:37:58.641114",
+      "price_per_m2": 3041,
+      "building_age": 90,
+      "PC4": "1506",
+      "PC6": "GG",
+      "city": "Zaandam"
+    }
   }
 ]
