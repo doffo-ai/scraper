@@ -76332,5 +76332,28 @@
       "PC6": "NT",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 192500,
+      "living_area": 53,
+      "volume": 183,
+      "rooms": 4,
+      "energy_label": "G",
+      "vve_contribution": 95.0,
+      "heating_system": "Gashaard",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1940,
+      "address": "Wieringerstraat 10-C",
+      "postal_city": "3083 CL Rotterdam",
+      "extraction_timestamp": "2025-02-25T11:24:58.042151",
+      "price_per_m2": 3632,
+      "building_age": 85,
+      "PC4": "3083",
+      "PC6": "CL",
+      "city": "Rotterdam"
+    }
   }
 ]
