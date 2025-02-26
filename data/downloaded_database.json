@@ -76493,5 +76493,28 @@
       "PC6": "XG",
       "city": "Den Haag"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 205000,
+      "living_area": 56,
+      "volume": 145,
+      "rooms": 3,
+      "energy_label": "A",
+      "vve_contribution": 122.58,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1962,
+      "address": "Kiplingstraat 35",
+      "postal_city": "3076 TA Rotterdam",
+      "extraction_timestamp": "2025-02-26T08:40:10.023733",
+      "price_per_m2": 3661,
+      "building_age": 63,
+      "PC4": "3076",
+      "PC6": "TA",
+      "city": "Rotterdam"
+    }
   }
 ]
