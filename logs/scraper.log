@@ -776,3 +776,10 @@
 2025-02-26 22:56:09,633 - Starting update at 2025-02-26 22:56:09
 2025-02-26 22:56:11,092 - Found 10 listings to check
 2025-02-26 22:57:10,347 - No new listings found
+2025-02-26 23:31:22,807 - Starting update at 2025-02-26 23:31:22
+2025-02-26 23:31:24,630 - Found 3 listings to check
+2025-02-26 23:31:26,063 - Added new listing: Dorpsweg 14-A
+2025-02-26 23:31:32,265 - Added new listing: Johannes de Breukstraat 2
+2025-02-26 23:31:38,475 - Added new listing: Johannes de Breukstraat 2-A
+2025-02-26 23:31:43,476 - Removed duplicates. Database size: 3344 → 3344
+2025-02-26 23:31:43,533 - Added 3 new listings to database
