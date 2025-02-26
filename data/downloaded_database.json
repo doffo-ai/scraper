@@ -76470,5 +76470,28 @@
       "PC6": "XG",
       "city": "Den Haag"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 24,
+      "volume": 100,
+      "rooms": 2,
+      "energy_label": "A",
+      "vve_contribution": 197.84,
+      "heating_system": "Warmtepomp",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1917,
+      "address": "Fultonstraat 239",
+      "postal_city": "2562 XG Den Haag",
+      "extraction_timestamp": "2025-02-26T06:55:54.382300",
+      "price_per_m2": 7708,
+      "building_age": 108,
+      "PC4": "2562",
+      "PC6": "XG",
+      "city": "Den Haag"
+    }
   }
 ]
