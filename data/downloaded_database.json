@@ -76516,5 +76516,28 @@
       "PC6": "TA",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 59,
+      "volume": 194,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 199.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1983,
+      "address": "Korenbloem 71",
+      "postal_city": "1689 RX Zwaag",
+      "extraction_timestamp": "2025-02-26T08:52:30.729781",
+      "price_per_m2": 3390,
+      "building_age": 42,
+      "PC4": "1689",
+      "PC6": "RX",
+      "city": "Zwaag"
+    }
   }
 ]
