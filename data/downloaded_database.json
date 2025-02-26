@@ -76652,5 +76652,28 @@
       "PC6": "EK",
       "city": "Spijkenisse"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 209000,
+      "living_area": 64,
+      "volume": 200,
+      "rooms": 4,
+      "energy_label": "F",
+      "vve_contribution": 75.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekwoning (appartement met open portiek)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1929,
+      "address": "Zuiderparklaan 431",
+      "postal_city": "2574 GG Den Haag",
+      "extraction_timestamp": "2025-02-26T16:43:41.290736",
+      "price_per_m2": 3266,
+      "building_age": 96,
+      "PC4": "2574",
+      "PC6": "GG",
+      "city": "Den Haag"
+    }
   }
 ]
