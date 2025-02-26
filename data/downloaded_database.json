@@ -76539,5 +76539,50 @@
       "PC6": "RX",
       "city": "Zwaag"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 59,
+      "volume": 180,
+      "rooms": 3,
+      "energy_label": "E",
+      "vve_contribution": 120.91,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Galerijflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": null,
+      "address": "Troelstraweg 187",
+      "postal_city": "3317 TD Dordrecht",
+      "extraction_timestamp": "2025-02-26T09:32:10.942177",
+      "price_per_m2": 3390,
+      "PC4": "3317",
+      "PC6": "TD",
+      "city": "Dordrecht"
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 212500,
+      "living_area": 56,
+      "volume": 181,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 167.0,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1965,
+      "address": "Kerkwervesingel 103",
+      "postal_city": "3086 HL Rotterdam",
+      "extraction_timestamp": "2025-02-26T09:32:17.203347",
+      "price_per_m2": 3795,
+      "building_age": 60,
+      "PC4": "3086",
+      "PC6": "HL",
+      "city": "Rotterdam"
+    }
   }
 ]
