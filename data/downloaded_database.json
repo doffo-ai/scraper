@@ -76629,5 +76629,28 @@
       "PC6": "AN",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 66,
+      "volume": 229,
+      "rooms": 2,
+      "energy_label": "F",
+      "vve_contribution": 320.38,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1978,
+      "address": "Vlinderveen 264",
+      "postal_city": "3205 EK Spijkenisse",
+      "extraction_timestamp": "2025-02-26T13:39:32.910273",
+      "price_per_m2": 3409,
+      "building_age": 47,
+      "PC4": "3205",
+      "PC6": "EK",
+      "city": "Spijkenisse"
+    }
   }
 ]
