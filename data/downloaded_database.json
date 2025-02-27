@@ -76740,5 +76740,27 @@
       "PC6": "HB",
       "city": "Haarlem"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": null,
+      "volume": 213,
+      "rooms": 3,
+      "energy_label": "F",
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1959,
+      "address": "Oldegaarde 726",
+      "postal_city": "3086 AN Rotterdam",
+      "extraction_timestamp": "2025-02-27T11:23:51.983507",
+      "building_age": 66,
+      "PC4": "3086",
+      "PC6": "AN",
+      "city": "Rotterdam"
+    }
   }
 ]
