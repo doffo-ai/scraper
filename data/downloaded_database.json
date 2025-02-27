@@ -76808,5 +76808,28 @@
       "PC6": "BC",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 39,
+      "volume": 132,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 194.24,
+      "heating_system": "Elektrische verwarming",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1957,
+      "address": "Elisabeth Brugsmaweg 1-211",
+      "postal_city": "2555 SC Den Haag",
+      "extraction_timestamp": "2025-02-27T14:49:03.416292",
+      "price_per_m2": 5769,
+      "building_age": 68,
+      "PC4": "2555",
+      "PC6": "SC",
+      "city": "Den Haag"
+    }
   }
 ]
