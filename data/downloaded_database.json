@@ -76854,5 +76854,51 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 219000,
+      "living_area": 63,
+      "volume": 188,
+      "rooms": 3,
+      "energy_label": "B",
+      "vve_contribution": 104.32,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1929,
+      "address": "Rotterdamsedijk 439-B2",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-27T19:23:45.266585",
+      "price_per_m2": 3476,
+      "building_age": 96,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 210000,
+      "living_area": 115,
+      "volume": 380,
+      "rooms": 7,
+      "energy_label": "D",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Bovenwoning (dubbel bovenhuis)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1941,
+      "address": "Wolphaertsbocht 193-C",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-27T19:23:51.151006",
+      "price_per_m2": 1826,
+      "building_age": 84,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
