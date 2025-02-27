@@ -76762,5 +76762,28 @@
       "PC6": "AN",
       "city": "Rotterdam"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 200000,
+      "living_area": 90,
+      "volume": 313,
+      "rooms": 4,
+      "energy_label": "F",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": null,
+      "construction_type": "Bestaande bouw",
+      "build_year": 1897,
+      "address": "Nieuwstraat 33",
+      "postal_city": "2771 XH Boskoop",
+      "extraction_timestamp": "2025-02-27T13:40:27.943428",
+      "price_per_m2": 2222,
+      "building_age": 128,
+      "PC4": "2771",
+      "PC6": "XH",
+      "city": "Boskoop"
+    }
   }
 ]
