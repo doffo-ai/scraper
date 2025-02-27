@@ -76831,5 +76831,28 @@
       "PC6": "SC",
       "city": "Den Haag"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 209500,
+      "living_area": 44,
+      "volume": 146,
+      "rooms": 3,
+      "energy_label": "D",
+      "vve_contribution": 196.54,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1950,
+      "address": "Burgemeester Gijsenlaan 40",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-27T18:45:45.911660",
+      "price_per_m2": 4761,
+      "building_age": 75,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
