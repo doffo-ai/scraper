@@ -76785,5 +76785,28 @@
       "PC6": "XH",
       "city": "Boskoop"
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 70,
+      "volume": 220,
+      "rooms": 3,
+      "energy_label": "D",
+      "vve_contribution": 87.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1963,
+      "address": "Aristotelesstraat 101",
+      "postal_city": "3076 BC Rotterdam",
+      "extraction_timestamp": "2025-02-27T14:37:17.603364",
+      "price_per_m2": 3214,
+      "building_age": 62,
+      "PC4": "3076",
+      "PC6": "BC",
+      "city": "Rotterdam"
+    }
   }
 ]
