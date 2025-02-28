@@ -77061,5 +77061,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 66,
+      "volume": 212,
+      "rooms": 3,
+      "energy_label": "C",
+      "vve_contribution": 137.17,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1958,
+      "address": "Goudestein 18",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T14:47:04.482775",
+      "price_per_m2": 3409,
+      "building_age": 67,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
