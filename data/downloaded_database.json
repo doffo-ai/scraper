@@ -77084,5 +77084,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 180000,
+      "living_area": 49,
+      "volume": 161,
+      "rooms": 3,
+      "energy_label": "G",
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": "Tussenverdieping (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1947,
+      "address": "Dorpsweg 142-C",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T15:56:51.421516",
+      "price_per_m2": 3673,
+      "building_age": 78,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
