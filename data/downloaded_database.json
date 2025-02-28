@@ -76923,5 +76923,51 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 219500,
+      "living_area": 63,
+      "volume": 199,
+      "rooms": 3,
+      "energy_label": "C",
+      "vve_contribution": 176.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1965,
+      "address": "Wilbertoord 287",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T09:31:06.066393",
+      "price_per_m2": 3484,
+      "building_age": 60,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 66,
+      "volume": 213,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 259.0,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1965,
+      "address": "Honthorstlaan 426",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T09:31:12.281085",
+      "price_per_m2": 3409,
+      "building_age": 60,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
