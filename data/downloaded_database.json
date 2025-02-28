@@ -76969,5 +76969,51 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 51,
+      "volume": 148,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 267.71,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1977,
+      "address": "Vestastraat 53",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T13:40:16.334677",
+      "price_per_m2": 4412,
+      "building_age": 48,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 225000,
+      "living_area": 51,
+      "volume": 181,
+      "rooms": 2,
+      "energy_label": "G",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": null,
+      "construction_type": "Bestaande bouw",
+      "build_year": 1928,
+      "address": "Benedenrijweg 365",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T13:40:22.706740",
+      "price_per_m2": 4412,
+      "building_age": 97,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
