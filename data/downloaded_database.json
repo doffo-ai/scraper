@@ -77130,5 +77130,51 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 67,
+      "volume": 220,
+      "rooms": 4,
+      "energy_label": "D",
+      "vve_contribution": 161.21,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1961,
+      "address": "Sint-Annalandstraat 101",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T18:43:55.383181",
+      "price_per_m2": 3358,
+      "building_age": 64,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 59,
+      "volume": 196,
+      "rooms": 3,
+      "energy_label": "D",
+      "vve_contribution": 112.5,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1960,
+      "address": "Beumershoek 58",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T18:44:27.296453",
+      "price_per_m2": 3814,
+      "building_age": 65,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
