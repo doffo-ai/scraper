@@ -77015,5 +77015,51 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 199500,
+      "living_area": 37,
+      "volume": 166,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 50.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Benedenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1906,
+      "address": "Pernissestraat 21",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T14:35:17.749643",
+      "price_per_m2": 5392,
+      "building_age": 119,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 59,
+      "volume": 191,
+      "rooms": 2,
+      "energy_label": "G",
+      "vve_contribution": null,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1981,
+      "address": "Kinderen van Versteegplein 32",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T14:35:53.758493",
+      "price_per_m2": 3814,
+      "building_age": 44,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
