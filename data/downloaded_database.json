@@ -77107,5 +77107,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 185000,
+      "living_area": 52,
+      "volume": 173,
+      "rooms": 3,
+      "energy_label": "D",
+      "vve_contribution": 144.59,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1939,
+      "address": "Katendrechtse Lagedijk 215-A",
+      "postal_city": null,
+      "extraction_timestamp": "2025-02-28T16:43:51.512393",
+      "price_per_m2": 3558,
+      "building_age": 86,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
