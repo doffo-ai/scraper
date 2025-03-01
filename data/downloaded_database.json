@@ -77268,5 +77268,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 215000,
+      "living_area": 36,
+      "volume": 129,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": null,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1906,
+      "address": "Spoorsingel 44-B",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-01T17:40:10.917516",
+      "price_per_m2": 5972,
+      "building_age": 119,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
