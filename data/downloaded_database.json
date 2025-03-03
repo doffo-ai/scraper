@@ -77359,5 +77359,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 44,
+      "volume": 139,
+      "rooms": 2,
+      "energy_label": "C",
+      "vve_contribution": 150.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Galerijflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1978,
+      "address": "Slochterwaard 106",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-03T10:41:15.959616",
+      "price_per_m2": 5114,
+      "building_age": 47,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
