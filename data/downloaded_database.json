@@ -77428,5 +77428,27 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": null,
+      "volume": 210,
+      "rooms": 5,
+      "energy_label": "Niet beschikbaar",
+      "vve_contribution": null,
+      "heating_system": null,
+      "apartment_type": "Bovenwoning (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1935,
+      "address": "Wagnerstraat 18-C",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-03T15:01:02.070135",
+      "building_age": 90,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
