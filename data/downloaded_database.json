@@ -77382,5 +77382,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 225000,
+      "living_area": 78,
+      "volume": 274,
+      "rooms": 4,
+      "energy_label": "E",
+      "vve_contribution": 68.75,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1935,
+      "address": "Voetjesstraat 48-A",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-03T13:05:26.554216",
+      "price_per_m2": 2885,
+      "building_age": 90,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
