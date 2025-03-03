@@ -77450,5 +77450,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 50,
+      "volume": 174,
+      "rooms": 2,
+      "energy_label": "G",
+      "vve_contribution": 204.22,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1959,
+      "address": "Oldegaarde 812",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-03T16:00:12.498431",
+      "price_per_m2": 4000,
+      "building_age": 66,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
