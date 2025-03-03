@@ -77405,5 +77405,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "yes",
+      "price": 217000,
+      "living_area": 47,
+      "volume": 164,
+      "rooms": 2,
+      "energy_label": "E",
+      "vve_contribution": 60.0,
+      "heating_system": "Cv-ketel",
+      "apartment_type": "Portiekflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1960,
+      "address": "Wantsnijdersgaarde 519",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-03T13:52:50.376748",
+      "price_per_m2": 4617,
+      "building_age": 65,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
