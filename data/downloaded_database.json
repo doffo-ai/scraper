@@ -77336,5 +77336,28 @@
       "PC6": null,
       "city": null
     }
+  },
+  {
+    "features": {
+      "kluswoning": "no",
+      "price": 200000,
+      "living_area": 37,
+      "volume": 122,
+      "rooms": 2,
+      "energy_label": "F",
+      "vve_contribution": 255.0,
+      "heating_system": "Blokverwarming",
+      "apartment_type": "Galerijflat (appartement)",
+      "construction_type": "Bestaande bouw",
+      "build_year": 1967,
+      "address": "Van Ostadelaan 406",
+      "postal_city": null,
+      "extraction_timestamp": "2025-03-03T09:34:38.005806",
+      "price_per_m2": 5405,
+      "building_age": 58,
+      "PC4": null,
+      "PC6": null,
+      "city": null
+    }
   }
 ]
